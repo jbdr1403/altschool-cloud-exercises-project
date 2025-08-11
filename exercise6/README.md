@@ -4,14 +4,7 @@
 
 ## Steps Taken
 
-1. **Cloned the project:**
-
-   ```bash
-   git clone <repository-url>
-   cd altschool-cloud-exercises
-   ```
-
-2. **Configured Git global username and email:**
+1. **Configured Git global username and email:**
 
 ```bash
 git config --global user.name "Your Name"
@@ -19,23 +12,24 @@ git config --global user.email "your.email@example.com"
 
 ```
 
-3. **Checked Configurations:**
+**git config -l**
 
-```bash
-git config -l
-
----------------
+![Description of image](screenshot/git_config_l.png)
 
 View remote repositories:
 
+```bash
 git remote -v
+```
 
----------------
+![Description of image](screenshot/git_remote_v.png)
 
 Display commit history:
 
-git log --oneline -n 5
+```bash
 
-
+git log
 
 ```
+
+![Description of image](screenshot/git_log.png)
