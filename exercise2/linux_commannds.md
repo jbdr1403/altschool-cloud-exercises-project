@@ -20,7 +20,7 @@ Show system information
 
 **Description:**  
 Show the current logged-in username
-![Description of image](screenshots/Screenshot2.png)
+![Description of image](screenshots/screenshot2.png)
 
 ### 3. `date`
 
@@ -32,19 +32,19 @@ Displays or set the system date and time
 
 **Description:**  
 Show how long the system has been running
-![Description of image](./screenshots/screenshot4.png)
+![Description of image](screenshots/screenshot4.png)
 
 ### 5. `df`
 
 **Description:**  
 Display disk space usage of file systems
-![Description of image](./screenshots/screenshot5.png)
+![Description of image](screenshots/screenshot5.png)
 
 ### 6. `du`
 
 **Description:**  
 Show disk usage of files and directories.
-![Description of image](./screenshots/screenshot6.png)
+![Description of image](screenshots/screenshot6.png)
 
 ### 7. `ps`
 
