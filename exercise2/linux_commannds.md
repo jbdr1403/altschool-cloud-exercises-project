@@ -14,19 +14,19 @@ This submission showcases my understanding and practical usage of these Linux co
 
 **Description:**  
 Show system information
-![Description of image](./screenshots/screenshot1.png)
+![Description of image](screenshots/screenshot1.png)
 
 ### 2. `whoammi`
 
 **Description:**  
 Show the current logged-in username
-![Description of image](./screenshots/screenshot2.png)
+![Description of image](screenshots/Screenshot2.png)
 
 ### 3. `date`
 
 **Description:**  
 Displays or set the system date and time
-![Description of image](./screenshots/screenshot3.png)
+![Description of image](screenshots/screenshot3.png)
 
 ### 4. `uptime`
 
