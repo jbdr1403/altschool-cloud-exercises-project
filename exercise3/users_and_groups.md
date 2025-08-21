@@ -10,7 +10,7 @@ sudo groupadd support
 sudo groupadd engineering
 ```
 
-![Description of image](screenshot/created_groups.png)
+![Description of image](./screenshots/created_groups.png)
 
 2. Added admin group to sudoers:
 
@@ -19,7 +19,7 @@ sudo vi sudo
 "%admin ALL=(ALL)"
 ```
 
-![Description of image](screenshot/sudoers.png)
+![Description of image](./screenshots/sudoers.png)
 
 3. Created users and assigned to groups:
 
@@ -29,7 +29,7 @@ sudo vi sudo
    sudo useradd -m -g engineering user3
 ```
 
-![Description of image](screenshot/users_assign.png)
+![Description of image](./screenshots/users_assign.png)
 
 4. Generated SSH keys for the admin user:
 
@@ -39,4 +39,4 @@ ssh-keygen
 ![Description of image](screenshots/screenshot1.png)
 ```
 
-![Description of image](screenshot/ssh-keygen.png)
+![Description of image](./screenshots/ssh-keygen.png)

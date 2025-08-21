@@ -64,8 +64,8 @@ Send a signal to a process (usually to terminate it)
 Display the first lines of a file
 ![Description of image](./screenshots/screenshot9.png)
 
-### 10. `tail`
+### 10. `shuf`
 
 **Description:**  
-Send a signal to a process (usually to terminate it)
+This will randomly reorder the lines in a file
 ![Description of image](./screenshots/screenshot10.png)

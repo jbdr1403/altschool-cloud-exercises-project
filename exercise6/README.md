@@ -14,7 +14,7 @@ git config --global user.email "your.email@example.com"
 
 **git config -l**
 
-![Description of image](screenshot/git_config_l.png)
+![Description of image](./screenshot/git_config_l.png)
 
 View remote repositories:
 
@@ -22,7 +22,7 @@ View remote repositories:
 git remote -v
 ```
 
-![Description of image](screenshot/git_remote_v.png)
+![Description of image](./screenshot/git_remote_v.png)
 
 Display commit history:
 
@@ -32,4 +32,4 @@ git log
 
 ```
 
-![Description of image](screenshot/git_log.png)
+![Description of image](./screenshot/git_log.png)

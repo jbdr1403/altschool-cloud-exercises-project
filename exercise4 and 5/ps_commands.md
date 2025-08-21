@@ -56,7 +56,7 @@ sudo useradd Joseph
 sudo useradd John
 ```
 
-![Description of image](screenshot/created_users.png)
+![Description of image](./screenshot/created_users.png)
 
 2. **Created the file index.js with placeholder content:**
 
@@ -65,7 +65,7 @@ sudo useradd John
    echo "This is a file" > index.js
 ```
 
-![Description of image](screenshot/file_content.png)
+![Description of image](./screenshot/file_content.png)
 
 3. **Set up file ownership and permissions:**
 
@@ -74,7 +74,7 @@ sudo chown Mary index.js
 
 ```
 
-![Description of image](screenshot/mary_owner.png)
+![Description of image](./screenshot/mary_owner.png)
 
 4. **Set permissions for each user:**
 
@@ -83,4 +83,4 @@ sudo setfacl u:username:permission index.js
 
 ```
 
-![Description of image](screenshot/everyone_permission.png)
+![Description of image](./screenshot/everyone_permission.png)
